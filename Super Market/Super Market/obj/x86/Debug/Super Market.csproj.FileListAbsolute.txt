@@ -1,0 +1,23 @@
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super Market.exe
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super Market.pdb
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super Market.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form1.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form2.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form3.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form4.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form5.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super Market.csproj.GenerateResource.Cache
+F:\Visual Studio 2010\Projects\Super Market\Super Market\bin\Debug\Super Market.exe
+F:\Visual Studio 2010\Projects\Super Market\Super Market\bin\Debug\Super Market.pdb
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form6.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form7.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Myconn.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form8.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form10.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form11.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form12.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form13.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form14.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\obj\x86\Debug\Super_Market.Form15.resources
+F:\Visual Studio 2010\Projects\Super Market\Super Market\bin\Debug\Super Market.exe.config

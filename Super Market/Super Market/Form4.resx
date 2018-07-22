@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>On February 9, 2006, Tesco announced that it planned to move into the United States by opening a chain of small format grocery 
+stores in three Western states (Arizona, California and Nevada) in 2007 named Fresh &amp; Easy.[9] The initial planned capital
+ expenditure was up to £250m ($436m) per year. After Tesco CEO Terry Leahy announced serious resources had been
+ committed to developing a format that would be popular with American consumers, investors responded with 
+some skepticism with a small drop in the company's share price.[10] The markets were expected to be around 1,400 square metres
+ (15,000 sq ft)-good-sized supermarkets in many countries, but about one-third the size of an average supermarket within the US 
+By January 2007, Tesco opened its U.S. headquarters in El Segundo, California, near Los Angeles International Airport. 
+The company initially expanded into Southern California, Phoenix, Arizona, and Las Vegas, Nevada.
+
+On April 21, 2009 Tesco reported a trading loss of £142m from Fresh &amp; Easy. On October 4, 2010 Fresh &amp; Easy
+ announced that it was temporarily closing 13 stores because of shrinking populations, high percentage of 
+housing foreclosures and high unemployment rates. The stores were being mothballed, with hope of reopening 
+them when the economy improves. Six of the stores were in the Las Vegas area, six in the Phoenix area and one in Moreno Valley, 
+California. Most of the closures were "C-level stores," or those doing less than $50,000 USD in weekly sales. The business was not expected to break even until 2012-13.
+ In the Strategic Review announcement in December 2012, research was showing that the company was not going to make a profit
+ until the end of 2013 or even 2014. An article in the Los Angeles Times estimated that the chain has experienced "about $1.2 billion in cumulative annual losses" prior to 2013.
+
+In February 2013 it was reported that despite rumors, Tesco would not be selling or closing the chain.
+This "rumor" was based on the fact that Tesco Chief Executive Philip Clarke announced to shareholders that Tesco would close or sell Fresh &amp; Easy.
+
+Tesco announced the sale of the chain on September 10, 2013 to Yucaipa Companies LLC In fact,
+ Tesco was not so much selling the chain as "essentially paying Mr. Burkle’s Yucaipa Cos. to take on [Fresh &amp; Easy's] liabilities" 
+at a cost to Tesco of £150 million (approximately $235 million), while also providing the transferred chain with an £80 million loan. On November 27, 
+2013, the sale to Yucaipa Companies was completed.Yucaipa acquired 167 Fresh &amp; Easy stores and closed approximately 40 of them.
+
+In a statement delivered shortly after the news was released, Burkle confirmed there would be changes to the stores' format, "to complete Tesco’s vision ...
+ [and] make it even more relevant to today’s consumer." In June 2014, Fresh &amp; Easy initiated a reintroduction campaign, emphasizing "affordable organics,
+" made-on-the-premises takeout, freshness, and the avoidance of artificial colors and flavors.
+
+In its e-mail announcing the sale, Fresh &amp; Easy said that customers would need to re-enroll in the Fresh &amp; Easy Friends
+ Card Loyalty program because "California state law does not allow the transfer of personal information of Friends Rewards 
+members to the new buyer of Fresh &amp; Easy"; after re-enrolling, "existing points and rewards balance will be honored.
+
+On March 22, 2015, Fresh &amp; Easy announced that 50 of its stores would close in order to redeploy its money into development
+ of an e-commerce shopping service.30 of the stores that would close were located in California.
+The service, named Click &amp; Collect, underwent testing at stores in the Las Vegas Valley in anticipation of a chainwide rollout
+</value>
+  </data>
+</root>
